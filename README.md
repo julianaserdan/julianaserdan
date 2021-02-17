@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my GitHub! 👋 I'm Juliana</h1>
-<h3 align="center">About me: Full Stack Web Development student, Public Relations, curious, passionate about communication and technology, always seeking creative solutions and always interested in learning something new</h3>
+<h3 align="center">Full Stack Web Development student, Public Relations, curious, passionate about communication and technology, always seeking creative solutions and always interested in learning something new</h3>
 
 :round_pushpin: São Paulo, Brazil
 
